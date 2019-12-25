@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StatisticsCollector async="false" continueOnError="false" enabled="true" name="__collect-statistics-request__">
+    <!-- Created by the Custom Analytics Collection tool on: Thu Jun 06 2019 13:04:48 GMT+0530 (IST) -->
+    <DisplayName>Collect Statistics Request</DisplayName>
+    <Statistics>
+        <Statistic name="govind" ref="_param1" type="String"></Statistic>
+        <Statistic name="verma" ref="_jsonPayload" type="String"></Statistic>
+    </Statistics>
+</StatisticsCollector>

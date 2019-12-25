@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ExtractVariables async="false" continueOnError="true" enabled="true" name="__extract-statistics-request__">
+    <!-- Created by the Custom Analytics Collection tool on: Thu Jun 06 2019 13:04:48 GMT+0530 (IST) -->
+    <DisplayName>Extract Statistics Request</DisplayName>
+    <QueryParam name="param1">
+        <Pattern ignoreCase="true">{_param1}</Pattern>
+    </QueryParam>
+    <JSONPayload>
+        <Variable name="_jsonPayload" type="string">
+            <JSONPath>Joe</JSONPath>
+        </Variable>
+    </JSONPayload>
+</ExtractVariables>
